@@ -1,5 +1,5 @@
 ﻿# OSD 2020 Code of Conduct 
-
+do some change here
 ## 1. Purpose
 
 A primary goal of AnitaB.org Open Source is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
